@@ -72,8 +72,8 @@ INSERT INTO LIBRARY_PROGRAMME (Programme_id, Programme_Name, Address)
 VALUES
     (1, 'Programme A', 'Library A Address'),
     (2, 'Programme B', 'Library B Address'),
-    (3, 'Programme C', 'Library C Address');
-    (4, 'Programme D', 'Library D Address');
+    (3, 'Programme C', 'Library C Address'),
+    (4, 'Programme D', 'Library D Address'),
     (5, 'Programme E', 'Library E Address');
 
 INSERT INTO BOOK_COPIES (Book_id, Programme_id, No_of_Copies)
